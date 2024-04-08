@@ -1,0 +1,15 @@
+input {
+  font-family: 'Raleway', sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+
+  div {
+    display: flex;
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+  }
+}
